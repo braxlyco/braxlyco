@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/hero.svg" alt="Braxly — custom software, AI agents, and automation" width="100%" />
+  <img src="assets/hero-v2.svg" alt="Braxly — custom software, AI agents, and automation" width="100%" />
 </p>
 
 <h2 align="center">Your work deserves better systems.</h2>
@@ -10,9 +10,9 @@
 </p>
 
 <p align="center">
-  <a href="mailto:contactbraxly@gmail.com"><strong>Start a project ↗</strong></a>
+  <a href="mailto:contactbraxly@gmail.com"><strong>Start a project</strong></a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://github.com/braxlyco?tab=repositories">See our work ↗</a>
+  <a href="https://github.com/braxlyco?tab=repositories">See our work</a>
 </p>
 
 <br />
@@ -38,10 +38,25 @@
 
 ### SELECTED WORK
 
-| | | |
-| :--- | :--- | :--- |
-| [<img src="assets/project-brewnest.svg" alt="BrewNest coffee management system" width="100%" />](https://github.com/braxlyco/BrewNest-Coffee-Management) | [<img src="assets/project-workshop.svg" alt="Workshop DMS" width="100%" />](https://github.com/braxlyco/DBM) | [<img src="assets/project-rfid.svg" alt="RFID Scanner for Android" width="100%" />](https://github.com/braxlyco/RFID-Scanner-Java) |
-| **[BrewNest](https://github.com/braxlyco/BrewNest-Coffee-Management)**<br />Coffee shop operations across sales, kitchen, inventory, procurement, and payments. | **[Workshop DMS](https://github.com/braxlyco/DBM)**<br />A workshop operations prototype from job card to invoice. | **[RFID Scanner](https://github.com/braxlyco/RFID-Scanner-Java)**<br />Offline UHF tag scanning for rugged Android handhelds. |
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://github.com/braxlyco/BrewNest-Coffee-Management"><img src="assets/project-brewnest.svg" alt="BrewNest coffee management system" width="100%" /></a><br />
+      <strong><a href="https://github.com/braxlyco/BrewNest-Coffee-Management">BrewNest</a></strong><br />
+      Coffee shop operations across sales, kitchen, inventory, procurement, and payments.
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/braxlyco/DBM"><img src="assets/project-workshop.svg" alt="Workshop DMS" width="100%" /></a><br />
+      <strong><a href="https://github.com/braxlyco/DBM">Workshop DMS</a></strong><br />
+      A workshop operations prototype from job card to invoice.
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/braxlyco/RFID-Scanner-Java"><img src="assets/project-rfid.svg" alt="RFID Scanner for Android" width="100%" /></a><br />
+      <strong><a href="https://github.com/braxlyco/RFID-Scanner-Java">RFID Scanner</a></strong><br />
+      Offline UHF tag scanning for rugged Android handhelds.
+    </td>
+  </tr>
+</table>
 
 <p align="center"><sub>Our public work spans .NET, Blazor, Django, Java, Android, SQL, and connected APIs.</sub></p>
 
