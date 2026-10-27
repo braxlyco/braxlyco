@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="280" viewBox="0 0 600 280" role="img" aria-labelledby="title">
+  <title id="title">AgentFlow Studio live demo</title>
+  <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#111329"/><stop offset="1" stop-color="#31255B"/></linearGradient><linearGradient id="line" x2="1"><stop stop-color="#AD8BFF"/><stop offset="1" stop-color="#6DE0ED"/></linearGradient><clipPath id="c"><rect width="600" height="280" rx="20"/></clipPath></defs>
+  <g clip-path="url(#c)">
+    <rect width="600" height="280" fill="url(#bg)"/><circle cx="495" cy="83" r="170" fill="#7656CA" fill-opacity=".12"/>
+    <text x="35" y="53" fill="#C1A9FF" font-family="Segoe UI,Arial,sans-serif" font-size="20" font-weight="700" letter-spacing="2">LIVE DEMO / 01</text>
+    <path d="M354 169L425 98L491 142L548 80" fill="none" stroke="url(#line)" stroke-width="4" stroke-linecap="round"/><circle cx="354" cy="169" r="10" fill="#AD8BFF"/><circle cx="425" cy="98" r="10" fill="#6DE0ED"/><circle cx="491" cy="142" r="14" fill="#211D42" stroke="#AD8BFF" stroke-width="4"/><circle cx="548" cy="80" r="10" fill="#6DE0ED"/>
+    <text x="33" y="178" fill="#FFFFFF" font-family="Segoe UI,Arial,sans-serif" font-size="51" font-weight="700">AgentFlow</text>
+    <text x="36" y="226" fill="#D4CDF0" font-family="Segoe UI,Arial,sans-serif" font-size="25">Explore a decision trace  ↗</text>
+  </g>
+</svg>

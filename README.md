@@ -36,6 +36,29 @@
 
 <br />
 
+### TRY THE AUTOMATIONS
+
+Two interactive previews of human-reviewed automation. They run in your browser with transparent rules and no connected AI model.
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://braxlyco.github.io/agentflow-studio/"><img src="assets/demo-agentflow.svg" alt="Try AgentFlow Studio" width="100%" /></a><br />
+      <strong>AgentFlow Studio</strong><br />
+      Change a lead, support, or invoice case and inspect its decision trace.<br />
+      <a href="https://braxlyco.github.io/agentflow-studio/">Open live demo</a> · <a href="https://github.com/braxlyco/agentflow-studio">View code</a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://braxlyco.github.io/inboxpilot/"><img src="assets/demo-inboxpilot.svg" alt="Try InboxPilot" width="100%" /></a><br />
+      <strong>InboxPilot</strong><br />
+      Triage a message, edit its draft reply, and record human review.<br />
+      <a href="https://braxlyco.github.io/inboxpilot/">Open live demo</a> · <a href="https://github.com/braxlyco/inboxpilot">View code</a>
+    </td>
+  </tr>
+</table>
+
+<br />
+
 ### SELECTED WORK
 
 <table>
