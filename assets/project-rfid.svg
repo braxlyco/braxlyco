@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="260" viewBox="0 0 480 260" role="img" aria-labelledby="title">
+  <title id="title">RFID Scanner for Android</title>
+  <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#111B36"/><stop offset="1" stop-color="#244C76"/></linearGradient><clipPath id="c"><rect width="480" height="260" rx="18"/></clipPath></defs>
+  <g clip-path="url(#c)">
+    <rect width="480" height="260" fill="url(#bg)"/><path d="M0 216H480" stroke="#86C3FF" stroke-opacity=".35"/>
+    <rect x="339" y="47" width="68" height="121" rx="10" fill="#10294C" stroke="#A4D0FF" stroke-width="6"/>
+    <path d="M354 72h38M354 87h38M354 102h29M353 143h39" stroke="#A4D0FF" stroke-width="5" stroke-linecap="round"/>
+    <path d="M322 72c-23 14-23 57 0 71M305 58c-40 27-40 73 0 99" fill="none" stroke="#79D9F4" stroke-width="6" stroke-linecap="round"/>
+    <text x="31" y="47" fill="#A4D0FF" font-family="Segoe UI,Arial,sans-serif" font-size="19" font-weight="650" letter-spacing="2">03 / FIELD TOOLS</text>
+    <text x="29" y="184" fill="#FFFFFF" font-family="Segoe UI,Arial,sans-serif" font-size="45" font-weight="700">RFID Scanner</text>
+    <text x="32" y="239" fill="#A4D0FF" font-family="Segoe UI,Arial,sans-serif" font-size="22">JAVA  /  ANDROID  /  OFFLINE</text>
+  </g>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="175" viewBox="0 0 1200 175" role="img" aria-labelledby="title desc">
+  <title id="title">Let's build something useful</title><desc id="desc">Email contactbraxly@gmail.com</desc>
+  <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#272044"/><stop offset=".56" stop-color="#48347A"/><stop offset="1" stop-color="#214A68"/></linearGradient><clipPath id="c"><rect width="1200" height="175" rx="20"/></clipPath></defs>
+  <g clip-path="url(#c)">
+    <rect width="1200" height="175" fill="url(#bg)"/><circle cx="1075" cy="-35" r="180" fill="#A779FF" fill-opacity=".13"/><path d="M0 173H1200" stroke="#9F83FF" stroke-width="3"/>
+    <text x="55" y="75" fill="#FFFFFF" font-family="Segoe UI,Arial,sans-serif" font-size="39" font-weight="700">Have a project in mind?</text>
+    <text x="57" y="126" fill="#D8D5F1" font-family="Segoe UI,Arial,sans-serif" font-size="23">Tell us what needs to work better.</text>
+    <rect x="758" y="53" width="390" height="68" rx="16" fill="#F3F0FF"/>
+    <text x="789" y="95" fill="#2C2550" font-family="Segoe UI,Arial,sans-serif" font-size="22" font-weight="700">contactbraxly@gmail.com  ↗</text>
+  </g>
+</svg>

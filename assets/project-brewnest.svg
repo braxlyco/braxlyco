@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="260" viewBox="0 0 480 260" role="img" aria-labelledby="title">
+  <title id="title">BrewNest coffee management system</title>
+  <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#2B1B1B"/><stop offset="1" stop-color="#5D3425"/></linearGradient><clipPath id="c"><rect width="480" height="260" rx="18"/></clipPath></defs>
+  <g clip-path="url(#c)">
+    <rect width="480" height="260" fill="url(#bg)"/><circle cx="414" cy="55" r="123" fill="#E7A46B" fill-opacity=".11"/><path d="M0 216H480" stroke="#E7A46B" stroke-opacity=".32"/>
+    <text x="31" y="47" fill="#F3CDAA" font-family="Segoe UI,Arial,sans-serif" font-size="19" font-weight="650" letter-spacing="2">01 / OPERATIONS</text>
+    <path d="M331 67h73v63a37 37 0 0 1-73 0zM404 83h16c29 0 29 37 0 37h-16" fill="none" stroke="#F3CDAA" stroke-width="8" stroke-linejoin="round"/>
+    <path d="M329 154h80M348 50c-10-11 12-14 2-27M377 50c-10-11 12-14 2-27" fill="none" stroke="#F3CDAA" stroke-width="6" stroke-linecap="round"/>
+    <text x="29" y="184" fill="#FFFFFF" font-family="Segoe UI,Arial,sans-serif" font-size="47" font-weight="700">BrewNest</text>
+    <text x="32" y="239" fill="#F3CDAA" font-family="Segoe UI,Arial,sans-serif" font-size="22">.NET  /  BLAZOR  /  SQL SERVER</text>
+  </g>
+</svg>

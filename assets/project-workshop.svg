@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="260" viewBox="0 0 480 260" role="img" aria-labelledby="title">
+  <title id="title">Workshop DMS</title>
+  <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#14212A"/><stop offset="1" stop-color="#1F4650"/></linearGradient><clipPath id="c"><rect width="480" height="260" rx="18"/></clipPath></defs>
+  <g clip-path="url(#c)">
+    <rect width="480" height="260" fill="url(#bg)"/><path d="M0 216H480" stroke="#77D6CD" stroke-opacity=".35"/>
+    <path d="M299 42h139v117H299zM319 69h98M319 91h66M319 113h75" fill="none" stroke="#77D6CD" stroke-opacity=".62" stroke-width="5" stroke-linecap="round"/>
+    <circle cx="371" cy="130" r="37" fill="#1C5760" stroke="#92E6D8" stroke-width="7"/><circle cx="371" cy="130" r="12" fill="#92E6D8"/>
+    <text x="31" y="47" fill="#9FE9DE" font-family="Segoe UI,Arial,sans-serif" font-size="19" font-weight="650" letter-spacing="2">02 / WORKFLOWS</text>
+    <text x="29" y="184" fill="#FFFFFF" font-family="Segoe UI,Arial,sans-serif" font-size="40" font-weight="700">Workshop DMS</text>
+    <text x="32" y="239" fill="#9FE9DE" font-family="Segoe UI,Arial,sans-serif" font-size="22">DJANGO  /  PYTHON  /  SQLITE</text>
+  </g>
+</svg>
