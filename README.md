@@ -17,6 +17,14 @@
 
 <br />
 
+### FEATURED / KNOWLEDGE AGENT
+
+<a href="https://braxlyco.github.io/knowledge-agent/"><img src="assets/demo-knowledge.svg" alt="Try Braxly Knowledge Agent" width="100%" /></a>
+
+Ask a question, inspect the source passages, and see an answer that does not guess beyond the documents. **[Try the browser demo](https://braxlyco.github.io/knowledge-agent/)** · **[Explore the code](https://github.com/braxlyco/knowledge-agent)**. The live demo uses retrieval; the repo also includes a local Ollama integration for model-generated answers.
+
+<br />
+
 ### WHAT WE BUILD
 
 <table>
